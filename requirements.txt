@@ -1,0 +1,7 @@
+tweepy
+vaderSentiment
+wordcloud
+pandas
+re
+matplotlib
+datetime
